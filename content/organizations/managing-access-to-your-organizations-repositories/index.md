@@ -25,4 +25,5 @@ topics:
 {% link_in_list /removing-an-outside-collaborator-from-an-organization-repository %}
 {% link_in_list /converting-an-organization-member-to-an-outside-collaborator %}
 {% link_in_list /converting-an-outside-collaborator-to-an-organization-member %}
-{% link_in_list /reinstating-a-former-outside-collaborators-access-to-your-organization %}
+{% link_in_list /reinstating-a-former-outside-collaborators-access-to-your-organization %}[GitHub-Mark.zip](https://github.com/github/docs/files/6306774/GitHub-Mark.zip)
+[gh_1.8.1_checksums.txt](https://github.com/github/docs/files/6306775/gh_1.8.1_checksums.txt)
